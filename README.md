@@ -30,7 +30,7 @@
       https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
   
 # Фирмварь свича:
-Через ржуникс в Actions > Install Firmware > Install a firmware from XCI or ZIP
+Через ржуникс в `Actions > Install Firmware > Install a firmware from XCI or ZIP`
 
       https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
   
