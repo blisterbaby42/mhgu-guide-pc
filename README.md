@@ -38,7 +38,7 @@
   <img width="1074" height="485" alt="{8A5BF3BF-683F-4F89-9185-1BB417942DBD}" src="https://github.com/user-attachments/assets/df8c222f-6edd-43d2-9e69-783372e9dc7b" />
 
 - prod.keys + 60-120 fps :
-  - ключи через Actions > Install keys(.KEYS) - оба title. & prod.
+  - ключи через `Actions > Install keys(.KEYS)` - оба title. & prod.
     
         https://prodkeys.net/yuzu-prod-keys-n25/
   - фпс в /mods (`FILE > OPEN RUJNIX FOLDER`)
