@@ -41,7 +41,7 @@
   - ключи через Actions > Install keys(.KEYS) - оба title. & prod.
     
         https://prodkeys.net/yuzu-prod-keys-n25/
-  - фпс в /mods (FILE > OPEN RUJNIX FOLDER)
+  - фпс в /mods (`FILE > OPEN RUJNIX FOLDER`)
 
         https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
     
@@ -51,7 +51,7 @@
         https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
 
 
-- Options > Settings > Network:
+- `Options > Settings > Network`:
   
     <img width="488" height="117" alt="image" src="https://github.com/user-attachments/assets/45acc925-86f7-4e90-be7d-109f3083820f" />
 
@@ -61,7 +61,7 @@
 
   
 >[!WARNING]
->В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре hunter connect > find
+>В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре `Hunter Connect > Find`
 
 SAVE MANAGER
 ==
