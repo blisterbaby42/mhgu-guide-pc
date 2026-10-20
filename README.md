@@ -63,6 +63,7 @@
 >[!WARNING]
 >В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре `Hunter Connect > Find`
 
-# SAVE MANAGER
-
+# Save Manager
     https://gbatemp.net/threads/mhxx-mhgu-save-manager.668514/
+# Armor Set Builder
+    https://mhxx.wiki-db.com/sim/?hl=en
