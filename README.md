@@ -12,14 +12,14 @@
 </details>
 
 <details>
-  <summary> альт 1.4.0 (TORRENT prepatched) </summary>
+  <summary> альт (TORRENT prepatched 1.4.0) </summary>
     
     magnet:?xt=urn:btih:bc0cd8b99d35f950e58ebe6375746023892e9ebb&dn=MHGU.nsp&xl=12360424144
     
 </details>
 
 <details>
-  <summary> альт2 с 4пда (1.4.0 prepatched) </summary>
+  <summary> альт2 с 4пда (prepatched 1.4.0) </summary>
   
     https://4pda.to/forum/index.php?showtopic=1050842&view=findpost&p=124297673
   
