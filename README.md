@@ -25,11 +25,11 @@
   
 </details>
 
-- Эмулятор:
+# Эмулятор:
   
       https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
   
-- Фирмварь свича:
+# Фирмварь свича:
 Через ржуникс в Actions > Install Firmware > Install a firmware from XCI or ZIP
 
       https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
@@ -63,7 +63,6 @@
 >[!WARNING]
 >В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре `Hunter Connect > Find`
 
-SAVE MANAGER
-==
+# SAVE MANAGER
 
-https://gbatemp.net/threads/mhxx-mhgu-save-manager.668514/
+    https://gbatemp.net/threads/mhxx-mhgu-save-manager.668514/
