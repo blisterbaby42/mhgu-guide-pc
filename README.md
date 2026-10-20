@@ -59,8 +59,8 @@
   <img width="1255" height="135" alt="{59C9DD75-4CCC-4CD0-AB36-227749C97227}" src="https://github.com/user-attachments/assets/37606c27-abd3-4b48-906f-f4f02f1d7bcd" />
 
   
-В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА
-в игре hunter connect > find
+>[!WARNING]
+>В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре hunter connect > find
 
 SAVE MANAGER
 ==
