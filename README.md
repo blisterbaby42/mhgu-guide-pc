@@ -55,7 +55,7 @@
 # 5. Multiplayer
 `Options > Settings > Network`:
   
-    <img width="488" height="117" alt="image" src="https://github.com/user-attachments/assets/45acc925-86f7-4e90-be7d-109f3083820f" />
+<img width="488" height="117" alt="image" src="https://github.com/user-attachments/assets/45acc925-86f7-4e90-be7d-109f3083820f" />
 
 # 6. Последний штрих (ребут программы)
 После перезапуска появится счетчик лобби и игроков в сети:
