@@ -46,8 +46,8 @@
 
         https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
     
-    > [ ] Дедлинк, починю \ перезалью етц етс
-    Берем здесь:
+    > [!INFO] Дедлинк, починю \ перезалью етц етс
+    > Берем здесь:
     
         https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
 
