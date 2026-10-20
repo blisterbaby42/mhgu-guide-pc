@@ -2,7 +2,7 @@
 
 <img width="212" height="214" alt="{9447A2AD-63B0-4B2D-975E-8EA03B6DCFEB}" src="https://github.com/user-attachments/assets/167be862-4ed1-494e-94f5-630deb43d085" />
 
-# Сама игра:
+# 0. Сама игра:
 
 <details>
   <summary> ROM + update 1.4.0 (TORRENT) </summary>
@@ -38,10 +38,10 @@
   <img width="1074" height="485" alt="{8A5BF3BF-683F-4F89-9185-1BB417942DBD}" src="https://github.com/user-attachments/assets/df8c222f-6edd-43d2-9e69-783372e9dc7b" />
 
 - 4. prod.keys + 60-120 fps :
-  - ключи через `Actions > Install keys(.KEYS)` - оба title. & prod.
+  - 4.1 ключи через `Actions > Install keys(.KEYS)` - оба title. & prod.
     
         https://prodkeys.net/yuzu-prod-keys-n25/
-  - фпс в /mods (`FILE > OPEN RUJNIX FOLDER`)
+  - 4.2 фпс в /mods (`FILE > OPEN RUJNIX FOLDER`)
 
         https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
     
