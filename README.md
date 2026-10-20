@@ -34,11 +34,12 @@
 
       https://github.com/THZoria/NX_Firmware/releases/tag/21.1.0
   
-# 3. Добавить папку с ромом и длс в OPTIONS > SETTINGS > INTERFACE (сразу открывается здесь)
+# 3. DLC
+- Добавить папку с ромом и длс в OPTIONS > SETTINGS > INTERFACE (сразу открывается здесь)
   <img width="1074" height="485" alt="{8A5BF3BF-683F-4F89-9185-1BB417942DBD}" src="https://github.com/user-attachments/assets/df8c222f-6edd-43d2-9e69-783372e9dc7b" />
 
 # 4. prod.keys + 60-120 fps :
-  -- 4.1 ключи через `Actions > Install keys(.KEYS)` - оба title. & prod.
+  - 4.1 ключи через `Actions > Install keys(.KEYS)` - оба title. & prod.
     
         https://prodkeys.net/yuzu-prod-keys-n25/
   - 4.2 фпс в /mods (`FILE > OPEN RUJNIX FOLDER`)
@@ -51,11 +52,13 @@
         https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
 
 
-# 5. `Options > Settings > Network`:
+# 5. Multiplayer
+`Options > Settings > Network`:
   
     <img width="488" height="117" alt="image" src="https://github.com/user-attachments/assets/45acc925-86f7-4e90-be7d-109f3083820f" />
 
-# 6. После перезапуска появится счетчик лобби и игроков в сети:
+# 6. Последний штрих (ребут программы)
+После перезапуска появится счетчик лобби и игроков в сети:
 
   <img width="1255" height="135" alt="{59C9DD75-4CCC-4CD0-AB36-227749C97227}" src="https://github.com/user-attachments/assets/37606c27-abd3-4b48-906f-f4f02f1d7bcd" />
 
