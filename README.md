@@ -2,7 +2,7 @@
 
 <img width="212" height="214" alt="{9447A2AD-63B0-4B2D-975E-8EA03B6DCFEB}" src="https://github.com/user-attachments/assets/167be862-4ed1-494e-94f5-630deb43d085" />
 
-- Сама игра:
+# Сама игра:
 
 <details>
   <summary> ROM + update 1.4.0 (TORRENT) </summary>
