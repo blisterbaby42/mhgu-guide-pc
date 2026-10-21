@@ -47,7 +47,8 @@
 
         https://drive.google.com/drive/folders/1YcI0oR5d0TXo3LUMc5HMoQpAYmT3BdZU?usp=drive_link
     
-    > [!INFO] Дедлинк, починю \ перезалью етц етс
+    >[!INFO] Дедлинк, починю \ перезалью етц етс
+    >
     > Берем здесь:
     
         https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
@@ -65,9 +66,11 @@
 
   
 >[!WARNING]
->В СМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре `Hunter Connect > Find`
+>В СAМОЙ ИГРЕ ДАТЬ КОННЕКТ БУИТ ФАЙРВОЛЛ РУГАЦА - в игре `Hunter Connect > Find`
 
 # Save Manager
     https://gbatemp.net/threads/mhxx-mhgu-save-manager.668514/
 # Armor Set Builder
     https://mhxx.wiki-db.com/sim/?hl=en
+# Database
+  https://mhgu.kiranico.com/
