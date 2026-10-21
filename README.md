@@ -1,6 +1,6 @@
 # MONSTER HUNTER: GENERATIONS ULTIMATE PC
 
-<img width="212" height="214" alt="{9447A2AD-63B0-4B2D-975E-8EA03B6DCFEB}" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IzUs4-aB9tiP3VBDnW2bINSvHp1-wFvWYRF_giVwng&s=10" />
+<img width="412" height="214" alt="{9447A2AD-63B0-4B2D-975E-8EA03B6DCFEB}" src="https://images.rpgsite.net/image/a3ecf1c/66415/original/MHGU_May102018_01.png" />
 
 # 0. Сама игра:
 
