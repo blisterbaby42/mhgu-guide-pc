@@ -27,8 +27,9 @@
   
       https://git.ryujinx.app/ryubing/ryujinx/-/releases/1.3.3
       
-  >[!TIP] Если ссылка не открывается - качаем 1.33 отсюда:
-  > https://www.mediafire.com/file/6dhvkl08svr782i/ryujinx-1.3.3-win_x64.zip/file
+> Если ссылка не открывается - качаем 1.33 отсюда:
+>
+> https://www.mediafire.com/file/6dhvkl08svr782i/ryujinx-1.3.3-win_x64.zip/file
   
 # 2. Фирмварь свича:
 Через ржуникс в `Actions > Install Firmware > Install a firmware from XCI or ZIP`
