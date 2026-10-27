@@ -34,7 +34,7 @@
 # 2. Фирмварь свича:
 Через ржуникс в `Actions > Install Firmware > Install a firmware from XCI or ZIP`
 
-      [Скачать](https://github.com/THZoria/NX_Firmware/releases/download/23.0.1/Firmware.23.0.1.zip)
+      https://github.com/THZoria/NX_Firmware/releases/download/23.0.1/Firmware.23.0.1.zip
   
 # 3. DLC
 - Добавить папку с ромом и длс в `OPTIONS > SETTINGS > INTERFACE` (сразу открывается здесь)
